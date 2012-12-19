@@ -17,12 +17,16 @@ public class MainActivity extends MapActivity {
   private static final String APPTOKEN_USER = "XXXXXXXXXXXXXXXXXXX";
 ```
 
+### Libs
+ * You must include topoos SDK in your project libs folder
+ * [`topoos Android SDK`][URI_TOPOOS_ANDROID_SDK]
+
 ### Google Maps API key (if you don't get your own API Key, the map will be display as grey background)
 
  * [`Get a Google Maps Api key`][URI_GOOGLEMAPSKEY] (You must get a Google Maps Api key before use this project)
  * [`Publishing an app with Google Maps key`][URI_GOOGLEMAPSPUBLISH]
 You must get a Google Maps Api key before use this code code: 
- * 		https://developers.google.com/maps/documentation/android/mapkey
+ *   	https://developers.google.com/maps/documentation/android/mapkey
  * About publishing app with Google Map
  *		http://developer.android.com/intl/es/tools/publishing/app-signing.html
 
